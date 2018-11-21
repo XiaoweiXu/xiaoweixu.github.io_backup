@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Xiaowei Xu</title>
     <link>https://xiaoweixu.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Xiaowei Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -36,8 +36,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://xiaoweixu.github.io/home/about/</guid>
-      <description>Biography I am a post-doc Researcher in the Department of Computer Science and Engineering at University of Notre Dame with Prof. Yiyu Shi. 
-I received his Ph.D. degree and B.S. degree from the Department of Electronic Science and Technology at Huazhong University of Science and Technology 2011 and 2016, respectively. 
+      <description>Hi there! I am a post-doc researcher at the Department of Computer Science and Engineering of University of Notre Dame with Prof. Yiyu Shi. 
+I received my Ph.D. degree and B.S. degree from the Department of Electronic Science and Technology at Huazhong University of Science and Technology 2011 and 2016, respectively. 
 My research interests include embedded systems, hardware acceleration, and medical image processing. I have several papers about hardware acceleration and image segmentation on top conferences including CVPR, AAAI, DAC, ICCAD, and top-journals including TCAD, TBioCAS, Nature Electronics.</description>
     </item>
     
