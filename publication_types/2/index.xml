@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Academic</title>
+    <link>https://xiaoweixu.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xiaoweixu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scaling for edge inference of deep neural networks</title>
+      <link>https://xiaoweixu.github.io/publication/xu2018scaling/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/xu2018scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAC-SDC Low Power Object Detection Challenge for UAV Applications.</title>
+      <link>https://xiaoweixu.github.io/publication/xu2018dac/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/xu2018dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase-Switching Modulator for Implantable Medical Applications.</title>
+      <link>https://xiaoweixu.github.io/publication/li2018phase/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/li2018phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating dynamic time warping with memristor-based customized fabrics</title>
+      <link>https://xiaoweixu.github.io/publication/xu2018accelerating/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/xu2018accelerating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Hardware Implementation of Cellular Neural Networks with Incremental Quantization and Early Exit.</title>
+      <link>https://xiaoweixu.github.io/publication/xu2018efficient/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/xu2018efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient segmentation method using quantised and non-linear CeNN for breast tumour classification</title>
+      <link>https://xiaoweixu.github.io/publication/liu2018efficient/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/liu2018efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDA: A Reconfigurable Memristor-based Distance Accelerator for Time Series Mining on Data Centers</title>
+      <link>https://xiaoweixu.github.io/publication/xu2018mda/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/xu2018mda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Quantization of Cellular Neural Networks for Cyber-Physical Systems.</title>
+      <link>https://xiaoweixu.github.io/publication/xu2018on/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/xu2018on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable and Parameterized Architecture for Efficient Stream Mining</title>
+      <link>https://xiaoweixu.github.io/publication/zhang2018scalable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/zhang2018scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A single phase modulation for pulse-based inductive-coupling connection in 3D stacked chip</title>
+      <link>https://xiaoweixu.github.io/publication/zhang2017single/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/zhang2017single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient handling activity recognition through pressure-map manifold learning using a footwear sensor</title>
+      <link>https://xiaoweixu.github.io/publication/lin2017patient/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/lin2017patient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Body-earth mover’s distance: a matching-based approach for sleep posture recognition</title>
+      <link>https://xiaoweixu.github.io/publication/xu2016body/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/xu2016body/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparison Study of Connected Vehicle Systems between Named Data Networking and IP</title>
+      <link>https://xiaoweixu.github.io/publication/xu2015comparison/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/xu2015comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A flexible control study of variable speed limit in connected vehicle systems</title>
+      <link>https://xiaoweixu.github.io/publication/pu2015flexible/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/pu2015flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchronized pulsed LED algorithm for ambient infrared noise minimization in FTIR-based multi-touch systems</title>
+      <link>https://xiaoweixu.github.io/publication/jiangchen2013synchronized/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoweixu.github.io/publication/jiangchen2013synchronized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
